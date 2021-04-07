@@ -1,2 +1,2 @@
 # FitnessTracker changed
-FitnessTracker changed for jira
+FitnessTracker changed for jira crfj
